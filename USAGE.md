@@ -27,7 +27,7 @@ Private weight storage is an **internal artifact** for serving infrastructure. I
 |--------|--------|
 | Availability | Private beta — by **invitation** |
 | How to request access | Through [sustainai.global](https://sustainai.global/) |
-| Early access | **Green Points Tier 3+** members receive early **chat** access as tiers are rolled out on the website |
+| Early access | **Tier 3 (Green Steward) and above** receive early **chat** access as tiers are rolled out on the website |
 | What you get | Web-based conversation with Ethos-32B via the agent and safety stack |
 
 Chat access does not grant API keys, weight files, or rights to resell model outputs as a hosted service.
@@ -69,7 +69,7 @@ SustainAI is a nonprofit; Ethos is **not** designed as a proprietary SaaS rent-e
 
 ## Green Points and community access
 
-The [Green Points](https://sustainai.global/) program on sustainai.global rewards aligned participation. Tier benefits for early chat are described on the website and may evolve; this document only notes that **Tier 3+** is the threshold for early chat access in v1 planning.
+The [Green Points](https://sustainai.global/) program on sustainai.global rewards aligned participation. Tier benefits may evolve; for v1, **Tier 3 (Green Steward) and above** is the threshold for early hosted chat access. The full five-tier table lives on the website.
 
 ---
 

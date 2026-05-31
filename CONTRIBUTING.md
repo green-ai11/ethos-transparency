@@ -31,7 +31,7 @@ Do not submit fabricated training examples, private repo excerpts, or confidenti
 
 ## Green Points and community participation
 
-Community recognition and tier benefits (including early **chat** access for Tier 3+) are managed through the **Green Points** program on [sustainai.global](https://sustainai.global/). Contributing to transparency docs does not automatically grant model access; access follows [USAGE.md](USAGE.md).
+Community recognition and tier benefits (including early **chat** access for **Tier 3 (Green Steward) and above**) are managed through the **Green Points** program on [sustainai.global](https://sustainai.global/). Contributing to transparency docs does not automatically grant model access; access follows [USAGE.md](USAGE.md).
 
 ---
 

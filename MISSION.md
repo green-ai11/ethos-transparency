@@ -32,7 +32,7 @@ We work across political perspectives with a practical bias: thriving businesses
 
 ## Green Points program
 
-**Green Points** is SustainAI’s community recognition program on [sustainai.global](https://sustainai.global/). Members earn points through participation, learning, and contributions aligned with our mission. Higher tiers unlock early access to hosted Ethos experiences (see [USAGE.md](USAGE.md)).
+**Green Points** is SustainAI’s community recognition program on [sustainai.global](https://sustainai.global/). Members earn points through participation, learning, and contributions aligned with our mission. **Tier 3 (Green Steward) and above** receive early hosted **chat** access (see [USAGE.md](USAGE.md)); the full five-tier program is described on the website.
 
 The program is designed to reward constructive engagement with sustainable economics and ethical AI — not speculation or extractive behavior. Details and tier benefits are maintained on the website.
 
