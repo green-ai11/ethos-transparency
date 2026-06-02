@@ -1,6 +1,6 @@
 # Ethos-32B Transparency
 
-**Ethos-32B** is SustainAI Global's **Ethical Specialized Intelligence (ESI)** model — a 32B-parameter language model aligned for sustainable economics, renewable energy, green finance, and a just transition. This public repository documents **how and why** we build Ethos: methodology, values, architecture, access policy, and transparency artifacts.
+**Ethos-32B** is SustainAI Global's **Ethical Specialized Intelligence (ESI)** model — a 32B-parameter language model aligned for sustainable economics, renewable energy, green finance, and a just transition. Its ethical foundation is [The Charter for Beneficial Intelligence](CHARTER.md): ten principles governing how Ethos reasons and serves. This public repository documents **how and why** we build Ethos: methodology, values, architecture, access policy, and transparency artifacts.
 
 **SustainAI Global** is a Texas nonprofit corporation (501(c)(3) pending) dedicated to public-good AI. Learn more at [sustainai.global](https://sustainai.global/).
 
@@ -18,6 +18,7 @@ Ethos-32B (ESI) is a fine-tuned specialist built on [Qwen/Qwen3-32B-FP8](https:/
 
 | Area | Description |
 |------|-------------|
+| [CHARTER.md](CHARTER.md) | The Ten Principles of Ethical Intelligence — core ESI charter |
 | [MISSION.md](MISSION.md) | SustainAI nonprofit mission and values |
 | [VISION.md](VISION.md) | Long-term vision for ESI and renewable AI |
 | [ARCHITECTURE.md](ARCHITECTURE.md) | Public-safe high-level system design |
@@ -46,6 +47,7 @@ Users interact with Ethos through **hosted chat** and **API** only. See [USAGE.m
 
 ## Related documentation
 
+- [CHARTER.md](CHARTER.md) — Ten Principles of Ethical Intelligence
 - [MISSION.md](MISSION.md) — Why SustainAI exists
 - [VISION.md](VISION.md) — Where we are headed
 - [ARCHITECTURE.md](ARCHITECTURE.md) — How Ethos is built (high level)

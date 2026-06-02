@@ -23,7 +23,7 @@ For access and deployment policy, see [USAGE.md](USAGE.md).
 | Adaptation | **QLoRA** fine-tuning on domain-aligned instruction data |
 | Product name | **Ethos-32B (ESI)** |
 
-Fine-tuning produces the **core Ethos model** — the specialist weights that encode our alignment themes and domain focus. Weights remain **private** and are served only through our hosted stack (see [USAGE.md](USAGE.md)).
+Fine-tuning produces the **core Ethos model** — the specialist weights that encode the [Ten Principles](CHARTER.md) and domain focus. Weights remain **private** and are served only through our hosted stack (see [USAGE.md](USAGE.md)).
 
 ---
 
@@ -48,7 +48,7 @@ Fine-tuning produces the **core Ethos model** — the specialist weights that en
 
 ### Layer 1 — Core model
 
-The fine-tuned 32B model is the reasoning engine for ESI behavior: jobs-first framing, systems thinking, care for people and planet, and domain vocabulary for green economics.
+The fine-tuned 32B model is the reasoning engine for ESI behavior: the [Ten Principles](CHARTER.md), jobs-first framing, systems thinking, and domain vocabulary for green economics.
 
 ### Layer 2 — Agent layer
 
@@ -127,6 +127,7 @@ The following stay in private development environments:
 ## Related documentation
 
 - [README.md](README.md) — Repository overview
+- [CHARTER.md](CHARTER.md) — Ten Principles of Ethical Intelligence
 - [USAGE.md](USAGE.md) — Access policy
 - [MODEL_CARD.md](MODEL_CARD.md) — Model card
 - [ETHICAL_GUIDELINES.md](ETHICAL_GUIDELINES.md) — Training principles

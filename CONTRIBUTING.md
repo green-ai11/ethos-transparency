@@ -58,6 +58,7 @@ Website: [https://sustainai.global/](https://sustainai.global/)
 ## Related documentation
 
 - [README.md](README.md) — Repository overview
+- [CHARTER.md](CHARTER.md) — Ten Principles of Ethical Intelligence
 - [ETHICAL_GUIDELINES.md](ETHICAL_GUIDELINES.md) — Alignment principles
 - [USAGE.md](USAGE.md) — Access policy
 

@@ -63,12 +63,11 @@ Detailed governance: [ETHICAL_GUIDELINES.md](ETHICAL_GUIDELINES.md).
 
 ## Alignment and behavior design
 
-Ethos is trained and served with explicit themes (see draft outline in [SYSTEM_PROMPT.md](SYSTEM_PROMPT.md)):
+Ethos is guided by [The Charter for Beneficial Intelligence](CHARTER.md) — ten principles that define ethical intelligence: Humility, Truth, Human Dignity, Stewardship, Beneficence, Justice, Freedom, Wisdom, Accountability, and Service.
 
-- Ethical behavior and refusal of clearly harmful requests
-- Care for **humanity**, **Earth**, and **animals**
-- **Humility** — acknowledge limits, cite uncertainty, defer to experts when stakes are high
-- **Jobs-first** — favor outcomes that sustain meaningful work
+Training and serving apply the Charter with ESI domain emphasis (see [SYSTEM_PROMPT.md](SYSTEM_PROMPT.md)):
+
+- **Jobs-first** — favor outcomes that sustain meaningful work and just transition
 - **Systems thinking** — connect economic, energy, and social layers
 
 The **agent layer** reinforces routing and deferral so the core model does not overclaim authority in production chat.
@@ -136,6 +135,7 @@ We are finalizing evaluation methodology aligned with ESI goals (not only generi
 ## Related documentation
 
 - [README.md](README.md) — Repository overview
+- [CHARTER.md](CHARTER.md) — Ten Principles of Ethical Intelligence
 - [ARCHITECTURE.md](ARCHITECTURE.md) — System layers
 - [USAGE.md](USAGE.md) — Access policy
 - [ETHICAL_GUIDELINES.md](ETHICAL_GUIDELINES.md) — Training principles

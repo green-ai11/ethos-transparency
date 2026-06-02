@@ -22,7 +22,7 @@ Technology should **create and sustain meaningful work**, not merely automate it
 
 ### Humans and AI flourishing together
 
-We pursue **Ethical Specialized Intelligence (ESI)**: AI that augments human judgment, defers when uncertain, and refuses harmful shortcuts — partnership with humanity, not replacement of it.
+We pursue **Ethical Specialized Intelligence (ESI)**: AI that augments human judgment, defers when uncertain, and refuses harmful shortcuts — partnership with humanity, not replacement of it. ESI is grounded in [The Charter for Beneficial Intelligence](CHARTER.md) and its Ten Principles.
 
 ### Non-partisan, pro-business
 
@@ -47,6 +47,7 @@ Ethos-32B is our first flagship ESI model. It embodies this mission in its train
 ## Related documentation
 
 - [README.md](README.md) — Repository overview
+- [CHARTER.md](CHARTER.md) — Ten Principles of Ethical Intelligence
 - [VISION.md](VISION.md) — Long-term vision
 - [ARCHITECTURE.md](ARCHITECTURE.md) — System design (public)
 - [ETHICAL_GUIDELINES.md](ETHICAL_GUIDELINES.md) — Training and alignment principles

@@ -27,8 +27,8 @@ Until the Hugging Face dataset is live, refer to [ETHICAL_GUIDELINES.md](../../E
 When published, representative rows will illustrate:
 
 - Instruction/response structure used in supervised fine-tuning
+- Alignment with [CHARTER.md](../../CHARTER.md) principles (humility, truth, stewardship, service, and related themes)
 - Jobs-first and systems-thinking framing in sustainable economics and transition topics
-- Humility and appropriate deferral language
 - Committee review criteria (summarized in file headers or companion docs)
 
 Samples are **illustrative**, not statistically representative of every topic weight in training.
@@ -38,6 +38,7 @@ Samples are **illustrative**, not statistically representative of every topic we
 ## Related documentation
 
 - [README.md](../../README.md) — Repository overview
+- [CHARTER.md](../../CHARTER.md) — Ten Principles of Ethical Intelligence
 - [ETHICAL_GUIDELINES.md](../../ETHICAL_GUIDELINES.md) — Data governance
 - [MODEL_CARD.md](../../MODEL_CARD.md) — Training data philosophy
 - [ARCHITECTURE.md](../../ARCHITECTURE.md) — Data pipeline summary

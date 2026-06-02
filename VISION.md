@@ -17,7 +17,7 @@ General intelligence scattered across ad platforms has not delivered broad prosp
 - Green finance, risk, and accountability
 - Just transition for workers and regions
 
-ESI is not “autopilot for society.” It is **decision support** with humility, traceable values, and public transparency about how models are built.
+ESI is not “autopilot for society.” It is **decision support** guided by [The Charter for Beneficial Intelligence](CHARTER.md), with humility, traceable values, and public transparency about how models are built.
 
 ---
 
@@ -50,6 +50,7 @@ This repository is one face of that vision: public methodology, public model car
 ## Related documentation
 
 - [README.md](README.md) — Repository overview
+- [CHARTER.md](CHARTER.md) — Ten Principles of Ethical Intelligence
 - [MISSION.md](MISSION.md) — Nonprofit mission
 - [ARCHITECTURE.md](ARCHITECTURE.md) — How Ethos is structured
 - [MODEL_CARD.md](MODEL_CARD.md) — Model identity and limitations

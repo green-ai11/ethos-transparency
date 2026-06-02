@@ -40,6 +40,7 @@ Full training execution remains in the private development repository by invitat
 ## Related documentation
 
 - [ARCHITECTURE.md](../ARCHITECTURE.md) — Phased training roadmap
+- [CHARTER.md](../CHARTER.md) — Ten Principles of Ethical Intelligence
 - [ETHICAL_GUIDELINES.md](../ETHICAL_GUIDELINES.md) — Data and alignment principles
 - [README.md](../README.md) — Repository overview
 

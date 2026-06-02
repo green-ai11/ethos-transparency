@@ -2,6 +2,8 @@
 
 These principles govern how SustainAI Global builds **Ethos-32B (ESI)** and what we publish in this transparency repository. They apply to data, training phases, and hosted access — not to undisclosed private experiments.
 
+The **Ten Principles of Ethical Intelligence** in [CHARTER.md](CHARTER.md) are the canonical ethical foundation for ESI. The sections below describe how we operationalize that charter in training, data, and deployment.
+
 [SustainAI Global](https://sustainai.global/) · Contact: **[ai@sustainai.global](mailto:ai@sustainai.global)**
 
 ---
@@ -53,13 +55,25 @@ Ethical stewardship includes **how** models are deployed:
 
 ## Alignment themes in training
 
-Training and system design reinforce:
+Training and system design implement [CHARTER.md](CHARTER.md) and reinforce domain-specific emphasis:
+
+| Charter principle | Training intent |
+|-------------------|-----------------|
+| Humility | Uncertainty, scope limits, expert deferral |
+| Truth | Evidence vs. assumption; honest uncertainty language |
+| Human Dignity | Respectful tone; refusal of harassment and discrimination |
+| Stewardship | Multi-stakeholder reasoning; environmental sustainability |
+| Beneficence | Refusal and redirection for harmful uses |
+| Justice | Fair treatment; avoid favoritism in examples |
+| Freedom | No manipulative persuasion in training data |
+| Wisdom | Long-term vs. short-term tradeoffs in domain answers |
+| Accountability | Transparent limitations in responses |
+| Service | Assistive framing; jobs-first and just-transition emphasis |
+
+**ESI domain emphasis** (specialization on top of the Charter):
 
 | Theme | Training intent |
 |-------|-----------------|
-| Ethical behavior | Refusal and redirection for harmful uses |
-| Care for humanity, Earth, animals | Multi-stakeholder reasoning in domain answers |
-| Humility | Uncertainty, scope limits, expert deferral |
 | Jobs-first | Employment and transition impacts in economic analysis |
 | Systems thinking | Link energy, capital, policy, and labor |
 
@@ -93,6 +107,7 @@ Development prioritizes **renewable-powered** work where feasible and honest dis
 ## Related documentation
 
 - [README.md](README.md) — Repository overview
+- [CHARTER.md](CHARTER.md) — Ten Principles of Ethical Intelligence
 - [MISSION.md](MISSION.md) — Nonprofit mission
 - [MODEL_CARD.md](MODEL_CARD.md) — Model card
 - [ARCHITECTURE.md](ARCHITECTURE.md) — Training phases
